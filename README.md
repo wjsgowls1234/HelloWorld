@@ -1,10 +1,9 @@
-## 🌳 바래? 다 줄게. 나는 나무.
-![easyme](https://i.pinimg.com/736x/10/38/be/1038bed4e7c787fc145af14dd6b57ced.jpg)
-
-### Code block
+### 🌳 바래? 다 줄게. 나는 나무.
 ```py
 print('Hi. I'm a tree!')
 ```
+
+![easyme](https://i.pinimg.com/736x/10/38/be/1038bed4e7c787fc145af14dd6b57ced.jpg)
 
 안녕하세요, 저는 **중앙대학교 예술공학부**에 재학 중인 **전혜진**입니다! <br>
 저는 삶의 곳곳에서 **배움**을 찾아 다니며, 이러한 배움의 **나무를 꾸준히 성장**시키는 것을 좋아합니다. <br>
