@@ -56,8 +56,8 @@ print('Hi. I'm a tree!')
 <br>
 
 ## 📈 GitHub 활동
-<codetree> Python / C++
-https://github.com/wjsgowls1234/codetree-TILs.git
+Python / C++ 개별 학습
+[CodeTree](https://github.com/wjsgowls1234/codetree-TILs.git)
 
 <br>
 
@@ -66,4 +66,4 @@ https://github.com/wjsgowls1234/codetree-TILs.git
 
 - 이메일: wjsgowls1234@naver.com
 - Instagram: @b4_sunsettt
-- GitHub: GitHub Profile
+- GitHub: [GitHub Profile](https://github.com/wjsgowls1234)
