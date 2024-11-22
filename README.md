@@ -38,19 +38,19 @@ print('Hi. I'm a tree!')
 <br>
 
 ## 💼 프로젝트
-1. 🏝️ Oasis 서비스 앱 기획
-    - 설명: 소규모 전시를 위한 필요 물품 및 장소 공유/대여 서비스. **예술의 외딴섬에서 오아시스를 찾다**는 의미의 Oasis.
+1. 🏝️ Oasis 서비스 앱 기획 ![Oasis](https://drive.google.com/file/d/1jZ3-mKhUxM764-h_NrP2FoTvo6df_z-m/view?usp=drive_link)
+    - 설명: 소규모 전시를 위한 홍보 및 필요 물품/장소 공유 서비스. **예술의 외딴섬에서 오아시스를 찾다**는 의미의 Oasis.
     - 기술 스택: Figma
     - 기여도: 사용자 경험 중심 기획 및 프론트엔드 디자인
 
 
 2. [🐈 고박사 : 웹 페이지 제작](http://jeonhyejin01.42web.io/) - 사이트 호스트 만료로, 사진 대체
-![easyme](/assets/readme/Downroad/gobaksa.jpg)
+![고박사](https://drive.google.com/file/d/1sc7fzzzShcE1vediWV-QZy8OxjweLaCX/view?usp=drive_link)
 
     - 설명: 초보 집사를 위한 고양이 백과사전 웹 사이트. <br>고양이 반려 생활을 위한 필수 정보를 공유하고, 커뮤니티를 형성하는 것이 주 목적.
 
-3. 🥐 도라미 미로 게임
-    - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임 제작.
+3. 🥐 도라미 미로 게임 제작 ![도라미](https://drive.google.com/file/d/1PMgJB90JN_T2YPIEGs2n6PSKqtMbKCW6/view?usp=drive_link)
+    - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임.
     - 기술 스택: Unity, C#
 
 <br>
