@@ -48,7 +48,7 @@ print('Hi. I'm a tree!')
 <br> ![고박사](https://drive.google.com/file/d/1sc7fzzzShcE1vediWV-QZy8OxjweLaCX/view?usp=sharing)
 
     - 설명: 초보 집사를 위한 고양이 백과사전 웹 사이트. <br>고양이 반려 생활을 위한 필수 정보를 공유하고, 커뮤니티를 형성하는 것이 주 목적.
-    - 기술 스택:JavaScript
+    - 기술 스택: JavaScript
 
 3. 🥐 도라미 미로 게임 제작 <br> ![도라미](https://drive.google.com/file/d/1PMgJB90JN_T2YPIEGs2n6PSKqtMbKCW6/view?usp=sharing)
     - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임.
