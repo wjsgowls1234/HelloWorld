@@ -37,7 +37,6 @@ print('Hi. I'm a tree!')
   
 <br>
 
-
 ## 💼 프로젝트
 1. 🏝️ Oasis 서비스 앱 기획
     - 설명: 소규모 전시를 위한 필요 물품 및 장소 공유/대여 서비스. **예술의 외딴섬에서 오아시스를 찾다**는 의미의 Oasis.
@@ -54,8 +53,13 @@ print('Hi. I'm a tree!')
     - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임 제작.
     - 기술 스택: Unity, C#
 
-## 📈 GitHub 활동
+<br>
 
+## 📈 GitHub 활동
+<codetree> Python / C++
+https://github.com/wjsgowls1234/codetree-TILs.git
+
+<br>
 
 ## 🤝 함께 하고 싶다면?
 저와 협업하고 싶거나, 저에 대해 더 알고 싶다면 언제든 연락주세요!
