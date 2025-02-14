@@ -20,7 +20,6 @@ print('Hi. I'm a tree!')
 
 2. 🖥️ 웹 개발
     - javaScript
-    - [ teachable machine ] + [ p5.js ]
 
 3. 👤 데이터 및 알고리즘
     - MySQL
@@ -53,6 +52,10 @@ print('Hi. I'm a tree!')
 3. 🥐 도라미 미로 게임 제작 <br> ![도라미](https://drive.google.com/file/d/1PMgJB90JN_T2YPIEGs2n6PSKqtMbKCW6/view?usp=sharing)
     - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임.
     - 기술 스택: Unity, C#
+
+4. 🥐 **랜덤 상장 수여식** 웹페이지 제작 <br> ![랜덤 상장 수여식](https://wjsgowls1234.github.io/)
+    - 설명: 수상자 이름을 입력하면, 예상치 못한 상 이름과 유머러스한 내용의 상장을 랜덤으로 생성해주는 웹페이지. 
+    - 기술 스택: JavaScript
 
 <br>
 
