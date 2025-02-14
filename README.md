@@ -37,11 +37,10 @@ print('Hi. I'm a tree!')
 <br>
 
 ## 💼 프로젝트
-1. 🏝️ Oasis 서비스 앱 기획 <br> ![Oasis](https://drive.google.com/file/d/1jZ3-mKhUxM764-h_NrP2FoTvo6df_z-m/view?usp=sharing)
+1. 🏝️ **Oasis 서비스 앱** 기획 <br> ![Oasis](https://drive.google.com/file/d/1jZ3-mKhUxM764-h_NrP2FoTvo6df_z-m/view?usp=sharing)
     - 설명: 소규모 전시를 위한 홍보 및 필요 물품/장소 공유 서비스. **예술의 외딴섬에서 오아시스를 찾다**는 의미의 Oasis.
     - 기술 스택: Figma
     - 기여도: 사용자 경험 중심 기획 및 프론트엔드 디자인
-
 
 2. [🐈 고박사 : 웹 페이지 제작](http://jeonhyejin01.42web.io/) - 사이트 호스트 만료로, 사진 대체
 <br> ![고박사](https://drive.google.com/file/d/1sc7fzzzShcE1vediWV-QZy8OxjweLaCX/view?usp=sharing)
@@ -49,13 +48,18 @@ print('Hi. I'm a tree!')
     - 설명: 초보 집사를 위한 고양이 백과사전 웹 사이트. <br>고양이 반려 생활을 위한 필수 정보를 공유하고, 커뮤니티를 형성하는 것이 주 목적.
     - 기술 스택: JavaScript
 
-3. 🥐 도라미 미로 게임 제작 <br> ![도라미](https://drive.google.com/file/d/1PMgJB90JN_T2YPIEGs2n6PSKqtMbKCW6/view?usp=sharing)
+3. 🥐 **도라미 미로 게임** 제작 <br> ![도라미](https://drive.google.com/file/d/1PMgJB90JN_T2YPIEGs2n6PSKqtMbKCW6/view?usp=sharing)
     - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임.
     - 기술 스택: Unity, C#
+  
+4. 🎄 **크리스마스 간단 미로 게임** 제작 <br> [크리스마스 미로 게임]()
+    - 설명: 플레이어가 SOR(System Of Record) 프로그램에서 직접 입력한 점을 회전시켜 생성된 3D 모델을 불러와, 미로 안에서 크리스마스의 트리 장식물들을 찾는 간단 미로 게임.
+    - 기술 스택: openGL, C++
 
-4. 🥐 **랜덤 상장 수여식** 웹페이지 제작 <br> [랜덤 상장 수여식](https://wjsgowls1234.github.io/)
+5. 🏅 **랜덤 상장 수여식** 웹페이지 제작 <br> [랜덤 상장 수여식](https://wjsgowls1234.github.io/)
     - 설명: 수상자 이름을 입력하면, 예상치 못한 상 이름과 유머러스한 내용의 상장을 랜덤으로 생성해주는 웹페이지. 
     - 기술 스택: JavaScript
+
 
 <br>
 
