@@ -51,7 +51,7 @@ print('Hi. I'm a tree!')
     - 설명: 만화 <도라에몽> 캐릭터 **도라미**가 좋아하는 메론빵을 찾아 먹기 위해 미로를 탈출하는 간단 조작 게임.
     - 기술 스택: Unity, C#
   
-4. 🎄 **크리스마스 간단 미로 게임** 제작 <br> https://github.com/wjsgowls1234/CoinKaraokeDB
+4. 🎄 **크리스마스 간단 미로 게임** 제작 <br> https://github.com/wjsgowls1234/X-masMiro
     - 설명: 플레이어가 SOR(System Of Record) 프로그램에서 직접 입력한 점을 회전시켜 생성된 3D 모델을 불러와, 미로 안에서 크리스마스의 트리 장식물들을 찾는 간단 미로 게임.
     - 기술 스택: openGL, C++
 
@@ -59,7 +59,7 @@ print('Hi. I'm a tree!')
     - 설명: 수상자 이름을 입력하면, 예상치 못한 상 이름과 유머러스한 내용의 상장을 랜덤으로 생성해주는 웹페이지. 
     - 기술 스택: JavaScript
   
-6. 🎤 **코인노래방 회원 데이터베이스** 설계 <br> https://github.com/wjsgowls1234/X-masMiro
+6. 🎤 **코인노래방 회원 데이터베이스** 설계 <br> https://github.com/wjsgowls1234/CoinKaraokeDB
     - 설명: 코인노래방 회원기록 및 플레이리스트 시스템을 위한 데이터베이스. 
     - 기술 스택: mySQL
 
